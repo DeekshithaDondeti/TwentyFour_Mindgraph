@@ -5,7 +5,7 @@
 A platform that shows the list of eligible students who can nominate for each of the positions in student council, based on their extra curricular profiles(built using the data provided)
 
 ## Profiles:
-.json file of profi les attached
+.json file of profiles attached
 
 ## Libraries used:
 1) Pandas
