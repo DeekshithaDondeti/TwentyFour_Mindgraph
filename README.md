@@ -26,5 +26,4 @@ A platform that shows the list of eligible students who can nominate for each of
 the pkl files need to be pasted in the hack.py file before running the file
 
 ### Team Members:
-Deekshitha Dondeti
-,Gayathri Chilukuri
+Deekshitha Dondeti, Gayathri Chilukuri
